@@ -36,9 +36,13 @@ DEFAULT_PAGINATION = 5
 
 DISPLAY_PAGES_ON_MENU = True
 
-THEME = "/home/eleftherios/Devel/pelican-themes/pelican-bootstrap3"
+THEME = "/home/eleftherios/Devel/website-dev/themes/pelican-bootstrap3"
+#BOOTSTRAP_THEME = "spacelab"
+BOOTSTRAP_THEME = "kuler"
 
-THEME = "/home/eleftherios/Devel/pelican-themes/fresh"
+#THEME = "/home/eleftherios/Devel/pelican-themes/pelican-bootstrap3"
+
+#THEME = "/home/eleftherios/Devel/pelican-themes/fresh"
 #THEME = "/home/eleftherios/Devel/pelican-themes/elegant"
 #THEME = "/home/eleftherios/Devel/pelican-themes/Responsive-Pelican"
 #THEME = "/home/eleftherios/Devel/pelican-themes/lovers"
