@@ -38,6 +38,9 @@ DISPLAY_PAGES_ON_MENU = True
 
 THEME = "/home/eleftherios/Devel/website-dev/themes/pelican-bootstrap3"
 BOOTSTRAP_THEME = "spacelab"
+
+COPYRIGHT_YEAR = "2015" # COPYRIGHT YEAR
+
 #BOOTSTRAP_THEME = "kuler"
 
 #THEME = "/home/eleftherios/Devel/pelican-themes/pelican-bootstrap3"
