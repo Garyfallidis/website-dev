@@ -20,15 +20,13 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+LINKS = (('Dipy', 'http://dipy.org/'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
-
+SOCIAL = (('Github', 'https://github.com/Garyfallidis'),
+          ('Facebook', 'https://www.facebook.com/garyfallidis'),
+          ('Twitter', 'https://twitter.com/garyfallidis'),
+          ('Google plus', 'https://plus.google.com/u/0/+EleftheriosGaryfallidis/posts'),)
 DEFAULT_PAGINATION = 5
 
 # Uncomment following line if you want document-relative URLs when developing
@@ -36,25 +34,27 @@ DEFAULT_PAGINATION = 5
 
 DISPLAY_PAGES_ON_MENU = True
 
-THEME = "/home/eleftherios/Devel/website-dev/themes/pelican-bootstrap3"
-BOOTSTRAP_THEME = "spacelab"
+TYPOGRIFY = True
+
+#THEME = "/home/eleftherios/Devel/website-dev/themes/pelican-bootstrap3"
+#THEME = "/home/eleftherios/Devel/website-dev/themes/pelican-bootstrap3-lovers"
+THEME = "/home/eleftherios/Devel/website-dev/themes/eleftherios"
+
+
+bs_theme_names = ["spacelab", "superhero", "cosmo", "cerulean", \
+                  "cupid", "darkly", "flatly", "hiro", "journal", \
+                  "lumen", "paper", "sandstone", "shamrock", \
+                  "simplex", "slate", "united", "yeti"]
+BOOTSTRAP_THEME = bs_theme_names[15]
+print('Selected theme is ' + BOOTSTRAP_THEME)
+
+#BOOTSTRAP_THEME = "amelia"
+#BOOTSTRAP_THEME = "cyborg"
+
 
 COPYRIGHT_YEAR = "2015" # COPYRIGHT YEAR
+#CC_LICENSE = 'CC_BY'
 
-#BOOTSTRAP_THEME = "kuler"
+#STATIC_PATHS = ['images']
+#PROFILE_PICTURE = "profile.png"
 
-#THEME = "/home/eleftherios/Devel/pelican-themes/pelican-bootstrap3"
-
-#THEME = "/home/eleftherios/Devel/pelican-themes/fresh"
-#THEME = "/home/eleftherios/Devel/pelican-themes/elegant"
-#THEME = "/home/eleftherios/Devel/pelican-themes/Responsive-Pelican"
-#THEME = "/home/eleftherios/Devel/pelican-themes/lovers"
-
-#THEME = "/home/eleftherios/Devel/pelican-themes/tuxlite_zf"
-
-#THEME = "/home/eleftherios/Devel/pelican-themes/pelipress"
-
-#THEME = "/home/eleftherios/Devel/pelican-themes/pujangga"
-
-#Read this
-#http://chdoig.github.io/create-pelican-blog.html
