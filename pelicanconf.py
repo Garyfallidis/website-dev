@@ -8,7 +8,7 @@ SITEURL = ''
 
 PATH = 'content'
 
-TIMEZONE = 'Europe/Paris'
+TIMEZONE = 'America/Montreal'
 
 DEFAULT_LANG = u'en'
 
@@ -20,13 +20,17 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Dipy', 'http://dipy.org/'),)
+LINKS = (('Dipy', 'http://dipy.org/'), 
+		 ('Nibabel', 'http://nipy.org/nibabel'),
+		 ('Scholar Google', 'https://scholar.google.ca/citations?user=Ln2EyRYAAAAJ&hl=en'))
 
 # Social widget
 SOCIAL = (('Github', 'https://github.com/Garyfallidis'),
           ('Facebook', 'https://www.facebook.com/garyfallidis'),
           ('Twitter', 'https://twitter.com/garyfallidis'),
-          ('Google plus', 'https://plus.google.com/u/0/+EleftheriosGaryfallidis/posts'),)
+          ('Linkedin', 'https://www.linkedin.com/profile/view?id=17061033'),
+          ('Google plus', 'https://plus.google.com/u/0/+EleftheriosGaryfallidis/posts'),
+          )
 DEFAULT_PAGINATION = 5
 
 # Uncomment following line if you want document-relative URLs when developing
@@ -44,17 +48,18 @@ THEME = "/home/eleftherios/Devel/website-dev/themes/eleftherios"
 bs_theme_names = ["spacelab", "superhero", "cosmo", "cerulean", \
                   "cupid", "darkly", "flatly", "hiro", "journal", \
                   "lumen", "paper", "sandstone", "shamrock", \
-                  "simplex", "slate", "united", "yeti"]
-BOOTSTRAP_THEME = bs_theme_names[15]
-print('Selected theme is ' + BOOTSTRAP_THEME)
+                  "simplex", "slate", "united", "yeti", \
+                  "amelia", "cyborg"]
+BOOTSTRAP_THEME = "hiro" #bs_theme_names[16]
+print('>>> Selected theme is ' + BOOTSTRAP_THEME + '\n')
 
-#BOOTSTRAP_THEME = "amelia"
-#BOOTSTRAP_THEME = "cyborg"
+#BANNER = True
+#BANNER_ALL_PAGES = True
 
 
 COPYRIGHT_YEAR = "2015" # COPYRIGHT YEAR
 #CC_LICENSE = 'CC_BY'
 
-#STATIC_PATHS = ['images']
+STATIC_PATHS = ['images', 'pdfs']
 #PROFILE_PICTURE = "profile.png"
 
