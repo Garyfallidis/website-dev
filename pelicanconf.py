@@ -20,7 +20,7 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Dipy', 'http://dipy.org/'), 
+LINKS = (('Dipy', 'http://dipy.org'), 
 		 ('Nibabel', 'http://nipy.org/nibabel'),
 		 ('Scholar Google', 'https://scholar.google.ca/citations?user=Ln2EyRYAAAAJ&hl=en'))
 
@@ -44,7 +44,6 @@ TYPOGRIFY = True
 #THEME = "/home/eleftherios/Devel/website-dev/themes/pelican-bootstrap3-lovers"
 THEME = "/home/eleftherios/Devel/website-dev/themes/eleftherios"
 
-
 bs_theme_names = ["spacelab", "superhero", "cosmo", "cerulean", \
                   "cupid", "darkly", "flatly", "hiro", "journal", \
                   "lumen", "paper", "sandstone", "shamrock", \
@@ -56,10 +55,9 @@ print('>>> Selected theme is ' + BOOTSTRAP_THEME + '\n')
 #BANNER = True
 #BANNER_ALL_PAGES = True
 
-
 COPYRIGHT_YEAR = "2015" # COPYRIGHT YEAR
-#CC_LICENSE = 'CC_BY'
+CC_LICENSE = 'CC-BY'
 
 STATIC_PATHS = ['images', 'pdfs']
-#PROFILE_PICTURE = "profile.png"
+
 
