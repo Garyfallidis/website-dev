@@ -29,6 +29,7 @@ SOCIAL = (('Github', 'https://github.com/Garyfallidis'),
           ('Facebook', 'https://www.facebook.com/garyfallidis'),
           ('Twitter', 'https://twitter.com/garyfallidis'),
           ('Linkedin', 'https://www.linkedin.com/profile/view?id=17061033'),
+          ('YouTube', 'https://www.youtube.com/user/Garyfallidis/videos'),
           ('Google plus', 'https://plus.google.com/u/0/+EleftheriosGaryfallidis/posts'),
           )
 DEFAULT_PAGINATION = 5
