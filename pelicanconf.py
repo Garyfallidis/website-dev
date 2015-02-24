@@ -20,7 +20,7 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Dipy', 'http://dipy.org'), 
+LINKS = (('Dipy', 'http://dipy.org'),
 		 ('Nibabel', 'http://nipy.org/nibabel'),
 		 ('Scholar Google', 'https://scholar.google.ca/citations?user=Ln2EyRYAAAAJ&hl=en'))
 
@@ -53,8 +53,8 @@ bs_theme_names = ["spacelab", "superhero", "cosmo", "cerulean", \
 BOOTSTRAP_THEME = "hiro" #bs_theme_names[16]
 print('>>> Selected theme is ' + BOOTSTRAP_THEME + '\n')
 
-#BANNER = True
-#BANNER_ALL_PAGES = True
+BANNER = False
+BANNER_ALL_PAGES = True
 
 COPYRIGHT_YEAR = "2015" # COPYRIGHT YEAR
 CC_LICENSE = 'CC-BY'
