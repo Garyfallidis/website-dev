@@ -41,8 +41,10 @@ DISPLAY_PAGES_ON_MENU = True
 
 TYPOGRIFY = True
 
-#THEME = "/home/eleftherios/Devel/website-dev/themes/pelican-bootstrap3"
-#THEME = "/home/eleftherios/Devel/website-dev/themes/pelican-bootstrap3-lovers"
+# Enables having a like buttons for facebook, twitter
+# and google plus after a post
+ADDTHIS_PROFILE = True
+
 THEME = "/home/eleftherios/Devel/website-dev/themes/eleftherios"
 
 bs_theme_names = ["spacelab", "superhero", "cosmo", "cerulean", \
