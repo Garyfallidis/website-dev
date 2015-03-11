@@ -13,7 +13,7 @@ This is history in the making! DIPY is now used both in academia and industry. H
 </a>
 </p>
 
-This is one of the pictures I made using DIPY a few years ago. I changed the standard colormap of the streamlines to make them look vintage. There is a suppressed artist hidden in all scientists. I am not an exception. I have to say that most of the work here is done by DIPY itself.
+This is one of the pictures I made using DIPY a few years ago. I changed the standard colormap of the streamlines to make them look vintage. There is a suppressed artist hidden in all scientists. I am not an exception.
 
 
 
