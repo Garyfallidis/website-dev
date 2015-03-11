@@ -41,6 +41,8 @@ DISPLAY_PAGES_ON_MENU = True
 
 TYPOGRIFY = True
 
+DISPLAY_TAGS_ON_SIDEBAR = False
+
 # Enables having a like buttons for facebook, twitter
 # and google plus after a post
 ADDTHIS_PROFILE = True
@@ -57,6 +59,9 @@ print('>>> Selected theme is ' + BOOTSTRAP_THEME + '\n')
 
 BANNER = False
 BANNER_ALL_PAGES = True
+
+BANNER_TITLE = "eleftherios.net"
+BANNER_SUBTITLE = "Accelerating neurology beyond any standards using the power of online collaboration."
 
 COPYRIGHT_YEAR = "2015" # COPYRIGHT YEAR
 CC_LICENSE = 'CC-BY'

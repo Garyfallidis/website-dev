@@ -2,7 +2,7 @@
 About
 =====
 
-I am a Greek computer scientist with a PhD in brain imaging from the University of Cambridge, and I am currently working as a post-doctoral researcher at the wonderful and dynamic lab of Professor Maxime Descoteaux, at the University of Sherbrooke in Canada.
+I am a Greek computer scientist with a PhD in brain imaging from the University of Cambridge, and I am currently working as a Postdoctoral researcher at the wonderful and dynamic lab of Professor Maxime Descoteaux, at the University of Sherbrooke in Canada.
 
 In 2009, I started a free and open source Python project called Dipy. Dipy focuses on advancing our current understanding of brain mapping using diffusion MRI (dMRI). dMRI is an MRI technique that can be used to study non-invasively the structural connectivity of the brain and other tissue.
 
