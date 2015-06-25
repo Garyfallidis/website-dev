@@ -12,8 +12,8 @@ Journals
 
 
 #. **Garyfallidis, E**., O. Ocegueda, D. Wassermann, M. Descoteaux.
-   *“Robust and efficient linear registration of fascicles in the space
-   of streamlines”*, Neuroimage, 2015.
+   `Robust and efficient linear registration of fascicles in the space
+   of streamlines <http://www.sciencedirect.com/science/article/pii/S1053811915003961>`_ , Neuroimage, 117:124-140, 2015.
 
 #. Ocegueda, O., **E. Garyfallidis**, M. Descoteuax, M. Rivera.
    *“Symmetric Diffeomorphic Registration with Expected
@@ -27,7 +27,7 @@ Journals
 
 #. Porro, D., E. Olivetti, B. Thien, **E. Garyfallidis**, P. Avesani,
    *“Visual Data Mining Tool for Brain Connectivity Analysis”*, Data
-   Mining and Knowledge Discovery (accepted), 2015.
+   Mining and Knowledge Discovery, 2015.
 
 #. Newcombe, V., M. Correia, C. Ledig, G. Giulia, J. Outtrim, D.
    Chatfield, T. Geeraerts, A. Manktelow, **E. Garyfallidis**, J.
@@ -38,9 +38,8 @@ Journals
    Repair, 2015.
 
 #. **Garyfallidis, E.**, M. Brett, B. Amirbekian, A. Rokem, S. Van Der
-   Walt, M. Descoteaux, and I. Nimmo-Smith. *“Dipy, a library for the
-   analysis of diffusion MRI data”*. Frontiers in Neuroinformatics,
-   1-18, 2014.
+   Walt, M. Descoteaux, and I. Nimmo-Smith. `Dipy, a library for the
+   analysis of diffusion MRI data <http://journal.frontiersin.org/article/10.3389/fninf.2014.00008/abstract>`_. Frontiers in Neuroinformatics, 1-18, 2014.
 
 #. Daducci, A., E. Canales-Rodriguez, M. Descoteaux, **E.
    Garyfallidis**, Y. Gur, Y-C. Lin, M. Mani, S. Merlet, M. Paquette, A.
@@ -55,8 +54,8 @@ Journals
    Pipelines.* Medical Image Analysis, 17 (7): 844-857, 2013.
 
 #. **Garyfallidis, E.**, M. Brett, M. M. Correia , G.B. Williams, I.
-   Nimmo-Smith. *QuickBundles, a method for tractography
-   simplification.* Frontiers in Neuroscience, 6-175, 2012.
+   Nimmo-Smith. `QuickBundles, a method for tractography
+   simplification <http://journal.frontiersin.org/article/10.3389/fnins.2012.00175/abstract>`_. Frontiers in Neuroscience, 6-175, 2012.
 
 #. Tsiaras, V., P.G. Simos, R. Rezaie, B.R. Sheth, **E. Garyfallidis**,
    E.M. Castillo, A.C. Papanicolaou, *Extracting biomarkers of autism
