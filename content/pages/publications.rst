@@ -13,7 +13,7 @@ Journals
 
 #. **Garyfallidis, E**., O. Ocegueda, D. Wassermann, M. Descoteaux.
    *“Robust and efficient linear registration of fascicles in the space
-   of streamlines”*, Neuroimage (under revision), 2015.
+   of streamlines”*, Neuroimage, 2015.
 
 #. Ocegueda, O., **E. Garyfallidis**, M. Descoteuax, M. Rivera.
    *“Symmetric Diffeomorphic Registration with Expected
@@ -35,7 +35,7 @@ Journals
    Williams, D. Menon, *”Dynamic changes in white matter abnormalities
    correlates with late improvement and deterioration following TBI: A
    diffusion tensor imaging study*\ ”, Neurorehabilitation & Neural
-   Repair (accepted), 2015.
+   Repair, 2015.
 
 #. **Garyfallidis, E.**, M. Brett, B. Amirbekian, A. Rokem, S. Van Der
    Walt, M. Descoteaux, and I. Nimmo-Smith. *“Dipy, a library for the
