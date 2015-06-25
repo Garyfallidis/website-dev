@@ -1,8 +1,8 @@
-:title: How to become a Dipy Master!
+:title: How to contribute to diffusion imaging in Python!
 :date: 2015-03-15 20:20
 :category: blog
 
-This a question that I get very often. How can I contribute to `Dipy <http://dipy.org>`_ or how can I become a really good user of Dipy? 
+This a question that I get very often. How can I contribute to `Dipy <http://dipy.org>`_ or how can I become a great poweruser of Dipy so that I can always have access to the latest additions? 
 
 In this post I am providing the necessary learning materials to master Python, code sharing and do diffusion MRI analysis with Dipy.
 
