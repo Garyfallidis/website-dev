@@ -109,6 +109,7 @@ github: publish
 
 update_website: 
 
+	@echo 'Updating garyfallidis.github.com ...'
 	rsync -rtv output/ ../garyfallidis.github.com/
 	cd ../garyfallidis.github.com/
 	git add *.html
@@ -116,6 +117,7 @@ update_website:
 	git commit -am "Website updated"
 	git push
 	cd ../website-dev
+	@echo 'garyfallidis.github.com is updated'
 
 
 .PHONY: html help clean regenerate serve devserver publish ssh_upload rsync_upload dropbox_upload ftp_upload s3_upload cf_upload github
