@@ -120,6 +120,7 @@ update_website:
 	git add pdfs/*.pdf; \
 	git commit -am "Website updated"; \
 	git push; \
+	git status; \
 	cd ../website-dev; 
 	@echo 'garyfallidis.github.com is updated'
 
