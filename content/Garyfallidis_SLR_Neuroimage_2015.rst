@@ -4,13 +4,14 @@
 
 I am very pleased to inform you that the paper 
 
-Garyfallidis et al., "**Robust and efficient linear registration of white-matter fascicles in the space of streamlines**", Neuroimage 2015, is now available `online <http://www.sciencedirect.com/science/article/pii/S1053811915003961>`_.
+Garyfallidis et al., "**Robust and efficient linear registration of white-matter fascicles in the space of streamlines**", Neuroimage 2015, is now available online `here <http://www.sciencedirect.com/science/article/pii/S1053811915003961>`_.
 
 This link below allows for free access of the paper for a couple of weeks 
 
 http://authors.elsevier.com/a/1R8x23lc~qsfWv
 
-Otherwise you can click the image below
+The main idea is depicted in the figure below. If you have a bundle, as a set of streamlines, you can directly register it with SLR to homologous bundles. The results are
+very robust to incomplete data which are omnipotent in tractography.
 
 .. raw:: html
 
