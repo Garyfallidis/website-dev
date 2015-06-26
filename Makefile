@@ -107,4 +107,15 @@ github: publish
 	ghp-import -m "Generate Pelican site" -b $(GITHUB_PAGES_BRANCH) $(OUTPUTDIR)
 	git push origin $(GITHUB_PAGES_BRANCH)
 
+udpate_website: 
+
+	rsync -rtv output/ ../garyfallidis.github.com/
+	cd ../garyfallidis.github.com/
+	git add *.html
+	git add pages/*.html
+	git commit -am "Website updated"
+	git push
+	cd ../website-dev
+
+
 .PHONY: html help clean regenerate serve devserver publish ssh_upload rsync_upload dropbox_upload ftp_upload s3_upload cf_upload github

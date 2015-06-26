@@ -4,7 +4,7 @@
 
 I am very pleased to inform you that the paper 
 
-Garyfallidis et al., "**Robust and efficient linear registration of white-matter fascicles in the space of streamlines**", Neuroimage 2015, is now available online.
+Garyfallidis et al., "**Robust and efficient linear registration of white-matter fascicles in the space of streamlines**", Neuroimage 2015, is now available `online <http://www.sciencedirect.com/science/article/pii/S1053811915003961>`_.
 
 This link below allows for free access of the paper for a couple of weeks 
 
