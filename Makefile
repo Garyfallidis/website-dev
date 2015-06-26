@@ -115,6 +115,9 @@ update_website:
 	git remote -v; \
 	git add *.html; \
 	git add pages/*.html; \
+	git add images/*.png; \
+	git add images/*.jpg; \
+	git add pdfs/*.pdf; \
 	git commit -am "Website updated"; \
 	git push; \
 	cd ../website-dev; 
