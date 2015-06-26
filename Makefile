@@ -111,12 +111,13 @@ update_website:
 
 	@echo 'Updating garyfallidis.github.com ...'
 	rsync -rtv output/ ../garyfallidis.github.com/
-	cd ../garyfallidis.github.com/
-	git add *.html
-	git add pages/*.html
-	git commit -am "Website updated"
-	git push
-	cd ../website-dev
+	cd ../garyfallidis.github.com/; \
+	git remote -v; \
+	git add *.html; \
+	git add pages/*.html; \
+	git commit -am "Website updated"; \
+	git push; \
+	cd ../website-dev; 
 	@echo 'garyfallidis.github.com is updated'
 
 
