@@ -95,7 +95,7 @@ After forking nipy/dipy from github in your own github space (assuming your user
     git checkout new_tracking_feature
     git merge nipy-dipy-master
 
-    # If you see any conflicts you can resolve them using a standard error
+    # If you see any conflicts you can resolve them using a standard and easy way.
     # Look for >>>> remove what is unnecessary and commit and push your changes
     git commit -am "Resolved conflict"
     git push origin new_tracking_feature
