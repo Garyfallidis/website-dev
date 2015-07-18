@@ -58,11 +58,11 @@ Here we provide a quick summary of the process of sharing your code in Github.
 3. Start working on a new branch from your cloned forked version.
 4. After your branch is finished. I mean you commited all changes.
 5. Push your changes in your github account and make a pull request.
-6. Then the Dipy  give you advice and you can make the suggested corrections
-7. we merge your project.
+6. Then the Dipy team give you advice and you can make the suggested corrections
+7. If we merge your project otherwise go to 6.
 
-In practice
-~~~~~~~~~~~~
+Keep your branch in sync with the main Dipy codebase
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 After forking nipy/dipy from github in your own github space (assuming your username in github is david) do:
 
 .. code-block:: bash
@@ -83,13 +83,25 @@ After forking nipy/dipy from github in your own github space (assuming your user
     git branch new_tracking_feature
     git checkout new_tracking_feature
 
-    # add and commit your changes
+    # add and commit and push your changes at your default remote which is usually
+    # called origin
     git add …
     git commit …
     git push origin new_tracking_feature
 
+    # make sure your branch is udpated with the latest changes in nipy/dipy/master
+    git checkout nipy-dipy-master
+    git pull 
+    git checkout new_tracking_feature
+    git merge nipy-dipy-master
 
-Afte you have finished pushing all your changes you are ready to make a pull request from github. You just need to press the green button from your github repo and write a title and a small description of what you are sharing with us.
+    # If you see any conflicts you can resolve them using a standard error
+    # Look for >>>> remove what is unnecessary and commit and push your changes
+    git commit -am "Resolved conflict"
+    git push origin new_tracking_feature
+
+
+After you have finished pushing all your changes you are ready to make a pull request from github. You just need to press the green button from your github repo and write a title and a small description of what you are sharing with us.
 
 After the pull request has arrived, the Dipy developers will review it and give you comments
 so you can improve your code. 
