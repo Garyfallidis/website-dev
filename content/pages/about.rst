@@ -17,3 +17,11 @@ Today, DIPY has grown to a multinational and dynamic community with many enthusi
 The picture on the right is from 2010 at a scientific exhibition that I participated while a PhD student at Cambridge. This was for the celebration of the 350 years of the Royal Society in London, UK. Video link of the demo for the general public is available `here <https://www.youtube.com/watch?v=tNB0sM7JJqg>`_ . This video gives a nice overview of the topic that I am working on without getting into the details.
 
 
+.. Collaborators
+.. =============
+
+..  raw:: html
+
+.. 	<div id="regions_div" style="width: 100%; height: 100%"></div>
+
+

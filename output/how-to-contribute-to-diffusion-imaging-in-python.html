@@ -34,6 +34,39 @@
     <link rel="stylesheet" href="/theme/css/style.css" type="text/css"/>
 
 
+    <!-- Google charts -->
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+        <script type="text/javascript">
+          google.load("visualization", "1", {packages:["geochart"]});
+          google.setOnLoadCallback(drawRegionsMap);
+
+          function drawRegionsMap() {
+
+            var data = google.visualization.arrayToDataTable([
+              ['Country', 'Popularity'],
+              ['Canada', 30],
+              ['United States', 40],
+              ['Brazil', 1],
+              ['Germany', 2],
+              ['Greece', 1],
+              ['Mexico', 4],
+              ['Colombia', 1],
+              ['South Africa', 1],
+              ['United Kingdom', 20],
+              ['Italy', 5],
+              ['France', 10],
+              ['Algeria', 2],
+              ['Greece', 5],
+              ['Australia', 1]
+            ]);
+
+            var options = {colors: ['#FF9900']};
+
+            var chart = new google.visualization.GeoChart(document.getElementById('regions_div'));
+
+            chart.draw(data, options);
+          }
+        </script>   
 </head>
 <body>
 
@@ -59,6 +92,9 @@ Eleftherios Garyfallidis, PhD            </a>
                           </a></li>
                          <li><a href="/pages/publications.html">
                              Publications
+                          </a></li>
+                         <li><a href="/pages/research.html">
+                             Research
                           </a></li>
                         <li class="active">
                             <a href="/category/blog.html">Blog</a>
@@ -209,7 +245,7 @@ git pull
 git checkout new_tracking_feature
 git merge nipy-dipy-master
 
-<span class="c"># If you see any conflicts you can resolve them using a standard error</span>
+<span class="c"># If you see any conflicts you can resolve them using a standard and easy way.</span>
 <span class="c"># Look for &gt;&gt;&gt;&gt; remove what is unnecessary and commit and push your changes</span>
 git commit -am <span class="s2">&quot;Resolved conflict&quot;</span>
 git push origin new_tracking_feature
