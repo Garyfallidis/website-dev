@@ -10,6 +10,13 @@ The complete list of my publications can be found in my
 Journals
 --------
 
+.. image:: ../images/graphical_abstract_slr.jpg
+    :width: 50em
+    :scale: 100 %
+    :alt: robust registration of fascicles
+    :align: center
+    :target: http://www.sciencedirect.com/science/article/pii/S1053811915003961
+
 
 #. **Garyfallidis, E**., O. Ocegueda, D. Wassermann, M. Descoteaux.
    `Robust and efficient linear registration of fascicles in the space
@@ -74,4 +81,9 @@ PhD Thesis
 
 Garyfallidis, E., `"Towards an accurate brain tractography" <https://dl.dropboxusercontent.com/u/2481924/thesis.pdf>`_, University of Cambridge, 2012. 
 
-
+.. image:: ../images/phd_thesis_cover.jpg
+    :width: 10em
+    :scale: 100 %
+    :alt: PhD thesis cover
+    :align: center
+    :target: https://dl.dropboxusercontent.com/u/2481924/thesis.pdf
