@@ -2,7 +2,6 @@
 Gallery
 =======
 
-
 Honolulu, Hawaii 2015
 =====================
 
@@ -18,6 +17,14 @@ I am mentoring him this year with DIPY for GSoC.
 We had some great fun with Julio in the booth talking with people but also during the OHBM hackathon!
 
 |
+
+Hacking time! With great friend and co-developer at DIPY Dr. Ariel Rokem.
+
+.. image:: ../images/hacking_time.jpg
+    :width: 150em
+    :scale: 40 %
+    :alt: alternate text
+    :align: right
 
 
 Toronto, Canada 2015
@@ -43,6 +50,14 @@ With Rafael Henriques who is participating at GSoC 2015 with DIPY. Rafael is a P
     :align: right
 
 |
+
+With my great friend and Postdoctar mentor Professor Maxime Descoteaux. 
+
+.. image:: ../images/max_and_elef.jpg
+    :width: 150em
+    :scale: 40 %
+    :alt: alternate text
+    :align: right
 
 
 Cambridge, UK 2012
