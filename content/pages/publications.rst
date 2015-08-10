@@ -80,10 +80,10 @@ PhD Thesis
 ----------
 
 .. image:: ../images/phd_thesis_cover.jpg
-    :width: 10em
+    :width: 15em
     :scale: 100 %
     :alt: PhD thesis cover
-    :align: left
+    :align: center
     :target: https://dl.dropboxusercontent.com/u/2481924/thesis.pdf
 
 
