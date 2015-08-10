@@ -54,7 +54,7 @@ bs_theme_names = ["spacelab", "superhero", "cosmo", "cerulean", \
                   "lumen", "paper", "sandstone", "shamrock", \
                   "simplex", "slate", "united", "yeti", \
                   "amelia", "cyborg"]
-BOOTSTRAP_THEME = "journal" #bs_theme_names[16] hiro
+BOOTSTRAP_THEME = "hiro" #bs_theme_names[16] hiro
 print('>>> Selected theme is ' + BOOTSTRAP_THEME + '\n')
 
 BANNER = False
