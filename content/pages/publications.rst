@@ -79,11 +79,11 @@ Journals
 PhD Thesis
 ----------
 
-Garyfallidis, E., `"Towards an accurate brain tractography" <https://dl.dropboxusercontent.com/u/2481924/thesis.pdf>`_, University of Cambridge, 2012. 
-
 .. image:: ../images/phd_thesis_cover.jpg
     :width: 10em
     :scale: 100 %
     :alt: PhD thesis cover
     :align: center
     :target: https://dl.dropboxusercontent.com/u/2481924/thesis.pdf
+
+Garyfallidis, E., `"Towards an accurate brain tractography" <https://dl.dropboxusercontent.com/u/2481924/thesis.pdf>`_, University of Cambridge, 2012. 
