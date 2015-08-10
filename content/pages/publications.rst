@@ -83,7 +83,7 @@ PhD Thesis
     :width: 10em
     :scale: 100 %
     :alt: PhD thesis cover
-    :align: center
+    :align: left
     :target: https://dl.dropboxusercontent.com/u/2481924/thesis.pdf
 
-Garyfallidis, E., `"Towards an accurate brain tractography" <https://dl.dropboxusercontent.com/u/2481924/thesis.pdf>`_, University of Cambridge, 2012. 
+**Garyfallidis, E.**, `"Towards an accurate brain tractography" <https://dl.dropboxusercontent.com/u/2481924/thesis.pdf>`_, University of Cambridge, 2012. 
