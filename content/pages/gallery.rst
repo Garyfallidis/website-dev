@@ -6,7 +6,8 @@ Gallery
 Honolulu, Hawaii 2015
 =====================
 
-During OHBM 2015 in front of our exhibition booth together with Julio Villalon. Julio is one of  Google Summer of Code (GSoC) students that I am mentoring this year with DIPY.
+During OHBM 2015 in front of our exhibition booth together with Julio Villalon. Julio is one of Google Summer of Code (GSoC) students and a PhD student at Paul Thompson's group at USC. 
+I am mentoring him this year with DIPY for GSoC.
 
 .. image:: ../images/julio_eleftherios_OHBM2015.jpg
     :width: 150em
@@ -15,6 +16,8 @@ During OHBM 2015 in front of our exhibition booth together with Julio Villalon. 
     :align: right
 
 We had some great fun with Julio in the booth talking with people but also during the OHBM hackathon!
+
+|
 
 
 Toronto, Canada 2015
@@ -28,4 +31,40 @@ During ISMRM 2015 together with some of the younger members of the DIPY crew. Fr
     :alt: alternate text
     :align: right
 
-Keep hacking!
+|
+
+
+With Rafael Henriques who is participating at GSoC 2015 with DIPY. Rafael is a PhD student at the University of Cambridge.
+
+.. image:: ../images/elef_and_rafael.jpg
+    :width: 150em
+    :scale: 40 %
+    :alt: alternate text
+    :align: right
+
+|
+
+
+Cambridge, UK 2012
+===================
+
+During my PhD graduation. A happy man!
+
+.. image:: ../images/phd_graduation.jpg
+    :width: 150em
+    :scale: 40 %
+    :alt: alternate text
+    :align: right
+
+
+Cambridge, UK 2011
+===================
+
+My PhD supervisor Dr. Ian Nimmo-Smith becomes Mayor of Cambridge! 
+
+.. image:: ../images/elef_and_ian.jpg
+    :width: 150em
+    :scale: 40 %
+    :alt: alternate text
+    :align: right
+
