@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = u'Eleftherios Garyfallidis'
-SITENAME = u'Eleftherios'
+SITENAME = u'Eleftherios Garyfallidis'
 SITEURL = ''
 
 PATH = 'content'
@@ -58,7 +58,7 @@ BOOTSTRAP_THEME = "hiro" #bs_theme_names[16] hiro
 print('>>> Selected theme is ' + BOOTSTRAP_THEME + '\n')
 
 BANNER = False
-BANNER_ALL_PAGES = True
+BANNER_ALL_PAGES = False
 
 BANNER_TITLE = "eleftherios.net"
 BANNER_SUBTITLE = "Accelerating neurology beyond any standards using the power of online collaboration."
@@ -68,4 +68,6 @@ CC_LICENSE = 'CC-BY'
 
 STATIC_PATHS = ['images', 'pdfs']
 
+JUMBOTRON = True
 
+CAROUSEL = False
