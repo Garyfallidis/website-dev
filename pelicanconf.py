@@ -25,13 +25,13 @@ LINKS = (('Dipy', 'http://dipy.org'),
 		 ('Scholar Google', 'https://scholar.google.ca/citations?user=Ln2EyRYAAAAJ&hl=en'))
 
 # Social widget
-SOCIAL = (('Github', 'https://github.com/Garyfallidis'),
-          ('Facebook', 'https://www.facebook.com/garyfallidis'),
-          ('Twitter', 'https://twitter.com/garyfallidis'),
-          ('Linkedin', 'https://www.linkedin.com/profile/view?id=17061033'),
+SOCIAL = (('Google plus', 'https://plus.google.com/u/0/+EleftheriosGaryfallidis/posts'),
+          ('Github', 'https://github.com/Garyfallidis'),
           ('YouTube', 'https://www.youtube.com/user/Garyfallidis/videos'),
-          ('Google plus', 'https://plus.google.com/u/0/+EleftheriosGaryfallidis/posts'),
-          )
+          ('Twitter', 'https://twitter.com/garyfallidis'),
+          ('Facebook', 'https://www.facebook.com/garyfallidis'),
+          ('Linkedin', 'https://www.linkedin.com/profile/view?id=17061033'))
+
 DEFAULT_PAGINATION = 5
 
 # Uncomment following line if you want document-relative URLs when developing
@@ -54,7 +54,7 @@ bs_theme_names = ["spacelab", "superhero", "cosmo", "cerulean", \
                   "lumen", "paper", "sandstone", "shamrock", \
                   "simplex", "slate", "united", "yeti", \
                   "amelia", "cyborg"]
-BOOTSTRAP_THEME = "hiro" #bs_theme_names[16] hiro
+BOOTSTRAP_THEME = "hiro" #"hiro" #bs_theme_names[16] hiro
 print('>>> Selected theme is ' + BOOTSTRAP_THEME + '\n')
 
 BANNER = False
@@ -68,6 +68,6 @@ CC_LICENSE = 'CC-BY'
 
 STATIC_PATHS = ['images', 'pdfs']
 
-JUMBOTRON = True
+JUMBOTRON = False
 
-CAROUSEL = False
+CAROUSEL = True
