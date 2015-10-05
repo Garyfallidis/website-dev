@@ -22,11 +22,9 @@ For more information here is Dr. Garyfallidis `CV <../pdfs/garyfallidis_CV_2015.
 Contact
 ========
 
-Contact Dr. Garyfallidis for:
+* For research questions, collaborations and media inquiries please send an e-mail to ``garyfallidis@gmail.com``.
 
-* research questions, collaborations and media inquiries by sending an e-mail to ``garyfallidis@gmail.com``.
+* For questions concerning DIPY please send directly an e-mail to ``neuroimaging@python.org`` with a title starting with [DIPY].
 
-* questions concerning DIPY please send directly an e-mail to ``neuroimaging@python.org`` with title starting with [DIPY].
-
-* urgent issues find the rest of his contact details `here <../pdfs/garyfallidis_CV_2015.pdf>`_.
+* For urgent issues find the rest of his contact details `here <../pdfs/garyfallidis_CV_2015.pdf>`_.
 
