@@ -51,7 +51,7 @@ With Rafael Henriques who is participating at GSoC 2015 with DIPY. Rafael is a P
 
 |
 
-With my great friend and Postdoctar mentor Professor Maxime Descoteaux. 
+With my great friend and Postdoctoral mentor Professor Maxime Descoteaux. 
 
 .. image:: ../images/max_and_elef.jpg
     :width: 150em
