@@ -3,6 +3,7 @@ Date: 2015-10-25 18:24
 
 Two new advanced workshops will be available in 2016. These two workshops will be offered by Dr. Garyfallidis and are designed to bring academics and industrial software engineers up to speed with the latest advancements in Scientific Python and Diffusion Analysis. 
 
+## Workshop I
 ## Advanced Scientific Programming in Python for Biomedical Engineers
 This workshop is tailored for biomedical engineers and medical imagers who are well familiar with at least one programming language (e.g. C++ or Matlab) and they want to switch into using Python in their daily analysis. With Python language being the most popular language for the last two years this maybe one of your greatest investments. 
 
@@ -30,7 +31,7 @@ Write efficient code using Cython
 2. Nonlinear Registration using Dipy
 3. Streamline-based Registration using Dipy
 
-
+## Workshop II
 ## Diffusion Imaging in Python (DIPY)
 This workshop is tailored for the Neuroscientists who want to learn the absolute best way of doing analysis of diffusion MRI datasets. This course will teach you all the hidden details which are usually avoided. To attend this talk you need to already be familiar with at least one programming
 language (e.g. Matlab) and had a course in medical imaging.
@@ -59,3 +60,5 @@ Familiarize with Python, Numpy, Scipy, Ipython, install Dipy.
 1. Segmentation of bundles
 2. Tractometry
 3. Statistical analysis along bundles
+
+Dates TBA. For more information or for organizing a workshop send an e-mail directly to [Dr. Garyfallidis](mailto:garyfallidis@gmail.com).
